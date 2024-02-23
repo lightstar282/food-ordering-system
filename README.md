@@ -17,7 +17,7 @@ Ordering Process:
 
 ## Project Setup
 
--   $git clone https://github.com/alasacelui/Food-ordering.git
+-   $git clone https://github.com/lightstar282/Food-ordering.git
 -   composer update
 -   npm install && npm run dev
 -   php artisan migrate:fresh --seed
